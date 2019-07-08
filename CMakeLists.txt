@@ -3,4 +3,4 @@ project(cpp_lib)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp_lib main.cpp Test.cpp Test.h)
+add_executable(cpp_lib main.cpp)

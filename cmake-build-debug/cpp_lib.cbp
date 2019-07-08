@@ -80,12 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/pawan.kumar/CLionProjects/cpp_lib/Test.cpp">
-			<Option target="cpp_lib"/>
-		</Unit>
-		<Unit filename="/Users/pawan.kumar/CLionProjects/cpp_lib/Test.h">
-			<Option target="cpp_lib"/>
-		</Unit>
 		<Unit filename="/Users/pawan.kumar/CLionProjects/cpp_lib/main.cpp">
 			<Option target="cpp_lib"/>
 		</Unit>
