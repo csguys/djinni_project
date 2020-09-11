@@ -1,0 +1,11 @@
+{
+    "result": {
+        "reason": null,
+        "data": {
+            "data": "eyJ1c2VyVHlwZSI6ICJhZ2VudCIsICJjb250YWN0UGVyc29uTmFtZSI6ICJQYXdhbiBCaGFyZHdhaiIsICJ1c2VySWQiOiAiOWM0MzAxOGVkNWE2MTFlYThkYmM5YzMwNWJlNGQyZjUiLCAiY2xpZW50SWQiOiAiS2FyemFfVGVjaF90VmpJdVoiLCAiaXNSTSI6IGZhbHNlfQ=="
+        },
+        "success": true
+    },
+    "requestId": "255bf564-0fb7-4759-a780-4b6241b1ea85",
+    "statusCode": 101
+}
